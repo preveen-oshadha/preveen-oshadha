@@ -1,6 +1,9 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Oshadha Preveen</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=time&weight=900&pause=1000&color=C2CD0C&background=FF000000&vCenter=true&random=true&width=435&lines=i'm+a+Full+Stack+Software+Engineer;i'm+a+Web+Developer;i'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
+------------------------------------------------
+
 **<p align="center"> i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;</p>
 
 ## 🌐 Socials:
