@@ -24,6 +24,8 @@
 
 <br/>
 
+<div align="center">
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/oshada.preveen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/preveen_bhagya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/oshadha-preveen-06707b3a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preveenoshadha@gmail.com) 
 
@@ -53,6 +55,8 @@
 ![](https://komarev.com/ghpvc/?username=preveen-oshadha&color=brightgreen)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1050" height="50">
+
+</div>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
