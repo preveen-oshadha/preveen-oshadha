@@ -1,10 +1,28 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Oshadha Preveen</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=time&weight=900&pause=1000&color=C2CD0C&background=FF000000&vCenter=true&random=true&width=435&lines=i'm+a+Full+Stack+Software+Engineer;i'm+a+Web+Developer;i'm+a+UI%2FUX+Designer)](https://git.io/typing-svg)
-------------------------------------------------
 
-**<p align="center"> i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=C2CD0C&center=true&vCenter=true&width=650&lines=I'm%20a%20Full%20Stack%20Software%20Engineer;I'm%20an%20UI%20%2F%20UX%20Designer;I'm%20a%20Web%20Developer;I'm%20a%20Graphic%20Designer;" alt="Typing introduction" /> 
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
+
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **Golang and Competitive Programming**
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for with **Internships**
+- 💬 Ask me about Anything [here](preveenoshadha@gmail.com)! I am happy to help.
+- 😄 Pronouns : **He/Him/His**
+
+
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/oshada.preveen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/preveen_bhagya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/oshadha-preveen-06707b3a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preveenoshadha@gmail.com) 
